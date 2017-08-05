@@ -1,0 +1,5 @@
+{
+  "hooks": {
+    "build": "sh prebuild.sh"
+  }
+}
